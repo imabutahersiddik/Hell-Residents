@@ -5,11 +5,16 @@ This list features notable residents from Bangladesh who, according to religious
 ## Residents
 
 1. **[Ka Maddazilluhul Ali](source-link)**
-   - Title: Dewanbag (Dajjal One Flee)
+   - Title: Dewanbag
    - Depth in Hell: Unknown
-   - Major Sin: Impersonating Dajjal as Allah
-   - Additional Info: This sin not forgiven by Allah. Tha depth in Hell for Ka Maddazilluhul Ali, also known as Dewanbag (Dajjal One Flee), said to be continuously increasing with each sin committed, tha accepted depth is not measurable from Earth. Only Allah knows actual depth.
+   - Major Sin: 
+   - Additional Info: This sin not forgiven by Allah. Tha depth in Hell for Ka Maddazilluhul Ali, also known as Dewanbag, said to be continuously increasing with each sin committed, the accepted depth is not measurable from Earth. Only Allah knows actual depth.
 
+2. **[Ka Shahin Mia](source-link)**
+   - Title: Kafir (Kannas)
+   - Depth in Hell: Unknown
+   - Major Sin: 
+   - Additional Info: This sin not forgiven by Allah. The depth in Hell for Ka Shahin Mia, is unknown.
 Contributions to this list are welcome! If you would like to add or modify a resident, please refer to the [Contributing Guidelines](CONTRIBUTING.md) for instructions.
 
 ## References
